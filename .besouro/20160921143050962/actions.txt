@@ -395,3 +395,4 @@ RefactoringAction 1474464437181 TestBowling.java RENAME verifyBowlingGame_Frames
 RefactoringAction 1474464576095 Frame.java RENAME isSpare()=>boolean score FIELD
 EditAction 1474464586431 BowlingGame.java 1533 4 7 0
 EditAction 1474464602317 TestBowling.java 4351 14 85 13
+EditAction 1474464604148 BowlingGame.java 1595 4 7 0
