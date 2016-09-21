@@ -3,3 +3,8 @@ FileOpenedAction 1474457496796 Frame.java 671 6 7 0
 FileOpenedAction 1474457498909 BowlingException.java 58 0 0 0
 FileOpenedAction 1474457507881 TestBowling.java 165 1 1 0
 EditAction 1474458355495 BowlingGame.java 689 4 2 0
+CompilationAction 1474458357511 BowlingGame.java
+CompilationAction 1474458397067 BowlingGame.java
+CompilationAction 1474458397276 BowlingGame.java
+CompilationAction 1474458409742 BowlingGame.java
+EditAction 1474458587966 BowlingGame.java 690 4 4 0
