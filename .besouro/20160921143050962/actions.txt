@@ -143,3 +143,28 @@ CompilationAction 1474460416803 BowlingGame.java
 CompilationAction 1474460416805 BowlingGame.java
 EditAction 1474460421265 BowlingGame.java 1368 4 7 0
 EditAction 1474460440535 BowlingGame.java 1338 4 7 0
+CompilationAction 1474460442331 BowlingGame.java
+CompilationAction 1474460461820 BowlingGame.java
+CompilationAction 1474460462015 BowlingGame.java
+CompilationAction 1474460504478 BowlingGame.java
+CompilationAction 1474460504668 BowlingGame.java
+CompilationAction 1474460538707 BowlingGame.java
+CompilationAction 1474460538860 BowlingGame.java
+CompilationAction 1474460538861 BowlingGame.java
+CompilationAction 1474460538862 BowlingGame.java
+CompilationAction 1474460538863 BowlingGame.java
+CompilationAction 1474460554718 BowlingGame.java
+CompilationAction 1474460554719 BowlingGame.java
+CompilationAction 1474460554720 BowlingGame.java
+CompilationAction 1474460554721 BowlingGame.java
+CompilationAction 1474460554880 BowlingGame.java
+RefactoringAction 1474460577968 TestBowling.java ADD void verifyFrameIsSpare_True()/2 METHOD
+RefactoringAction 1474460582993 TestBowling.java RENAME verifyFrameIsSpare_True()/2=>void verifyBowlingGame_TooManyFrames()/2 METHOD
+RefactoringAction 1474460586506 TestBowling.java RENAME verifyBowlingGame_TooManyFrames()/2=>void verifyBowlingGame_() METHOD
+RefactoringAction 1474460589521 TestBowling.java RENAME verifyBowlingGame_()=>void verifyBowlingGame_First() METHOD
+RefactoringAction 1474460591535 TestBowling.java RENAME verifyBowlingGame_First()=>void verifyBowlingGame_FirstFrame() METHOD
+RefactoringAction 1474460598548 TestBowling.java RENAME verifyBowlingGame_FirstFrame()=>void verifyBowlingGame_FirstFrame_() METHOD
+RefactoringAction 1474460601561 TestBowling.java RENAME verifyBowlingGame_FirstFrame_()=>void verifyBowlingGame_FirstFrame_Score() METHOD
+RefactoringAction 1474460603573 TestBowling.java RENAME verifyBowlingGame_FirstFrame_Score()=>void verifyBowlingGame_FirstFrame_Score_() METHOD
+RefactoringAction 1474460605088 TestBowling.java RENAME verifyBowlingGame_FirstFrame_Score_()=>void verifyBowlingGame_FirstFrame_Score_5() METHOD
+EditAction 1474460636439 TestBowling.java 1376 6 25 6
