@@ -270,3 +270,7 @@ EditAction 1474462018603 TestBowling.java 1946 8 34 7
 UnitTestCaseAction 1474462020687 TestBowling.java FAIL
 UnitTestSessionAction 1474462020688 TestBowling.java FAIL
 EditAction 1474462046839 TestBowling.java 1911 8 33 7
+UnitTestCaseAction 1474462048915 TestBowling.java OK
+UnitTestSessionAction 1474462048916 TestBowling.java OK
+RefactoringAction 1474462096190 TestBowling.java RENAME verifyBowlingGame_Frames_3_Spare3_Score_29()=>void verifyBowlingGame_Frames_3_Spare3_Score_34() METHOD
+EditAction 1474462101307 TestBowling.java 1911 8 33 7
