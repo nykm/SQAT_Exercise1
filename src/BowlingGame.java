@@ -20,7 +20,7 @@ public class BowlingGame {
 	}
 	
 	// Sets the bonus throws at the end of the game
-	public void setBonus(int firstThrow, int secondThrow) {
+	public void setBonus(int firstThrow, int secondThrow) throws BowlingException {
 		if (frames.size() != 10)
 			throw new BowlingException();
 		
@@ -29,7 +29,14 @@ public class BowlingGame {
 	
 	// Returns the game score
 	public int score(){
+		int score = 0;
 		
-		return 0;
+		for (Frame frame : frames)
+			score += frame.score();
+		
+		if (bonus != null)
+			score += frame.score();
+		
+		return score;
 	}
 }
