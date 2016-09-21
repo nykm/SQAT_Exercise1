@@ -403,3 +403,7 @@ EditAction 1474464775749 TestBowling.java 4351 14 85 13
 UnitTestCaseAction 1474464777655 TestBowling.java FAIL
 UnitTestSessionAction 1474464777656 TestBowling.java FAIL
 EditAction 1474464914722 TestBowling.java 4351 14 85 13
+UnitTestCaseAction 1474464916579 TestBowling.java FAIL
+UnitTestSessionAction 1474464916580 TestBowling.java FAIL
+UnitTestCaseAction 1474464929462 TestBowling.java FAIL
+UnitTestSessionAction 1474464929463 TestBowling.java FAIL
