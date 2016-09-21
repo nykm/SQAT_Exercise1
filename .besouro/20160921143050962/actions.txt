@@ -286,3 +286,15 @@ RefactoringAction 1474462585815 TestBowling.java RENAME verifyBowlingGame_Frames
 RefactoringAction 1474462591336 TestBowling.java RENAME verifyBowlingGame_Frames_3_Spare3_Score_39()=>void verifyBowlingGame_Frames_3_Spare3_Score_() METHOD
 RefactoringAction 1474462595847 TestBowling.java RENAME verifyBowlingGame_Frames_3_Spare3_Score_()=>void verifyBowlingGame_Frames_3_Spare3_Score_29() METHOD
 EditAction 1474462600481 TestBowling.java 2198 9 38 8
+UnitTestCaseAction 1474462602436 TestBowling.java FAIL
+UnitTestSessionAction 1474462602437 TestBowling.java FAIL
+RefactoringAction 1474462633882 TestBowling.java RENAME verifyBowlingGame_Frames_4_Spare3_Score_39()=>void verifyBowlingGame_Frames_4_Spare3_Score_34() METHOD
+RefactoringAction 1474462655405 TestBowling.java ADD void verifyBowlingGame_Frames_4_Spare3_Score_34()/2 METHOD
+RefactoringAction 1474462658420 TestBowling.java RENAME verifyBowlingGame_Frames_4_Spare3_Score_34()/2=>void verifyBowlingGame_Frames_5_Spare3_Score_34() METHOD
+RefactoringAction 1474462674471 TestBowling.java ADD void verifyBowlingGame_Frames_5_Spare3_Score_34()/2 METHOD
+RefactoringAction 1474462679982 TestBowling.java RENAME verifyBowlingGame_Frames_5_Spare3_Score_34()/2=>void verifyBowlingGame_Frames_5_Score_34() METHOD
+RefactoringAction 1474462681996 TestBowling.java RENAME verifyBowlingGame_Frames_5_Spare3_Score_34()=>void verifyBowlingGame_Frames_5_Score_34()/2 METHOD
+RefactoringAction 1474462685511 TestBowling.java RENAME verifyBowlingGame_Frames_4_Spare3_Score_34()=>void verifyBowlingGame_Frames_4_Score_34() METHOD
+RefactoringAction 1474462688026 TestBowling.java RENAME verifyBowlingGame_Frames_3_Spare3_Score_29()=>void verifyBowlingGame_Frames_3_Score_29() METHOD
+RefactoringAction 1474462693041 TestBowling.java RENAME verifyBowlingGame_Frames_5_Score_34()/2=>void verifyBowlingGame_Frames_5_Score_44() METHOD
+EditAction 1474462710883 TestBowling.java 2920 11 53 10
