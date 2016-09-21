@@ -36,7 +36,7 @@ public class BowlingGame {
 
 			score += frame.score();
 			
-			if (i < 9 && (frame.isSpare() || frame.isStrike())) {
+			if (i < 9 && i == frames.size() - 1 && (frame.isSpare() || frame.isStrike())) {
 				break;
 			}
 			
