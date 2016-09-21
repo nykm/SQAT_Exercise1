@@ -86,3 +86,4 @@ RefactoringAction 1474459565466 BowlingGame.java RENAME nextFrame=>List<Frame> f
 CompilationAction 1474459569202 BowlingGame.java
 EditAction 1474459577157 BowlingGame.java 1255 4 8 0
 EditAction 1474459602230 BowlingGame.java 1306 4 8 0
+EditAction 1474459659220 BowlingGame.java 1316 4 4 0
