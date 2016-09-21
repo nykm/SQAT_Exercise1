@@ -6,7 +6,7 @@ import java.util.List;
 
 public class BowlingGame {
 	//a bowling game is made of (at least) 10 frames
-	private List<Frame> nextFrame = new ArrayList<Frame>();
+	private List<Frame> frames = new ArrayList<Frame>();
 	private Frame bonus;
 	
 	public BowlingGame(){}
@@ -32,9 +32,11 @@ public class BowlingGame {
 		int score = 0;
 		
 		for (int i = 0; i < frames.size(); i++) {
+			Frame frame = frames.get(i);
+			
 			if (frames.get(i).isSpare()) {
 				Frame nextFrame = frames.get(i + 1);
-				score += frames.get(i + 1).getFirstThrow();
+				score += nextFrame.getFirstThrow();
 				
 			} else if (frames.get(i).isStrike()) {
 				Frame nextFrame = frames.get(i + 1);
