@@ -34,3 +34,10 @@ CompilationAction 1474459032176 TestBowling.java
 CompilationAction 1474459032178 TestBowling.java
 EditAction 1474459038864 TestBowling.java 278 2 2 1
 EditAction 1474459055945 TestBowling.java 342 2 4 2
+RefactoringAction 1474459060829 TestBowling.java ADD void verifyFrameIsSpare_True()/2 METHOD
+RefactoringAction 1474459063343 TestBowling.java RENAME verifyFrameIsSpare_True()/2=>void verifyFrameIsSpare_False() METHOD
+RefactoringAction 1474459067868 TestBowling.java RENAME verifyFrameIsStrike_True()=>void verifyFrameIsStrike_() METHOD
+RefactoringAction 1474459070383 TestBowling.java RENAME verifyFrameIsStrike_()=>void verifyFrameIsStrike_True() METHOD
+RefactoringAction 1474459072400 TestBowling.java ADD void verifyFrameIsStrike_True()/2 METHOD
+RefactoringAction 1474459074914 TestBowling.java RENAME verifyFrameIsStrike_True()/2=>void verifyFrameIsStrike_False() METHOD
+EditAction 1474459087888 TestBowling.java 591 4 8 4
