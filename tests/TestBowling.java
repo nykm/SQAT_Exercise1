@@ -5,8 +5,20 @@ import org.junit.Test;
 public class TestBowling {
 
 	@Test(expected=BowlingException.class)
-	public void verifyBowlingGame_TooManyFrames() {
+	public void verifyBowlingGame_TooManyFrames() throws BowlingException {
 		BowlingGame game = new BowlingGame();
+
+		game.addFrame(new Frame(0,0));
+		game.addFrame(new Frame(0,0));
+		game.addFrame(new Frame(0,0));
+		game.addFrame(new Frame(0,0));
+		game.addFrame(new Frame(0,0));
+
+		game.addFrame(new Frame(0,0));
+		game.addFrame(new Frame(0,0));
+		game.addFrame(new Frame(0,0));
+		game.addFrame(new Frame(0,0));
+		game.addFrame(new Frame(0,0));
 
 		game.addFrame(new Frame(0,0));
 	}
