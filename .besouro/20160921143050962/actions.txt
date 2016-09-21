@@ -213,3 +213,6 @@ EditAction 1474461256281 BowlingGame.java 1466 4 7 0
 UnitTestCaseAction 1474461261493 TestBowling.java OK
 UnitTestSessionAction 1474461261494 TestBowling.verifyFrameIsSpare_False OK
 EditAction 1474461268871 TestBowling.java 1912 8 33 7
+UnitTestCaseAction 1474461271917 TestBowling.java FAIL
+UnitTestSessionAction 1474461271918 TestBowling.java FAIL
+EditAction 1474461273566 TestBowling.java 1912 8 33 7
