@@ -275,3 +275,14 @@ UnitTestSessionAction 1474462048916 TestBowling.java OK
 RefactoringAction 1474462096190 TestBowling.java RENAME verifyBowlingGame_Frames_3_Spare3_Score_29()=>void verifyBowlingGame_Frames_3_Spare3_Score_34() METHOD
 EditAction 1474462101307 TestBowling.java 1911 8 33 7
 EditAction 1474462396785 BowlingGame.java 1391 4 4 0
+CompilationAction 1474462398756 BowlingGame.java
+CompilationAction 1474462398757 BowlingGame.java
+CompilationAction 1474462398758 BowlingGame.java
+CompilationAction 1474462560874 BowlingGame.java
+RefactoringAction 1474462571758 TestBowling.java RENAME verifyBowlingGame_Frames_3_Spare3_Score_34()=>void verifyBowlingGame_Frames_4_Spare3_Score_34() METHOD
+RefactoringAction 1474462578788 TestBowling.java RENAME verifyBowlingGame_Frames_4_Spare3_Score_34()=>void verifyBowlingGame_Frames_4_Spare3_Score_39() METHOD
+RefactoringAction 1474462581801 TestBowling.java ADD void verifyBowlingGame_Frames_4_Spare3_Score_39()/2 METHOD
+RefactoringAction 1474462585815 TestBowling.java RENAME verifyBowlingGame_Frames_4_Spare3_Score_39()/2=>void verifyBowlingGame_Frames_3_Spare3_Score_39() METHOD
+RefactoringAction 1474462591336 TestBowling.java RENAME verifyBowlingGame_Frames_3_Spare3_Score_39()=>void verifyBowlingGame_Frames_3_Spare3_Score_() METHOD
+RefactoringAction 1474462595847 TestBowling.java RENAME verifyBowlingGame_Frames_3_Spare3_Score_()=>void verifyBowlingGame_Frames_3_Spare3_Score_29() METHOD
+EditAction 1474462600481 TestBowling.java 2198 9 38 8
