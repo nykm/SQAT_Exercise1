@@ -26,3 +26,10 @@ RefactoringAction 1474458992586 TestBowling.java RENAME verifyFrameIs()=>void ve
 RefactoringAction 1474458995595 TestBowling.java RENAME verifyFrameIsFrame()=>void verifyFrameIsSpare() METHOD
 RefactoringAction 1474459020720 TestBowling.java RENAME verifyFrameIsSpare()=>void verifyFrameIsSpare_True() METHOD
 EditAction 1474459023739 TestBowling.java 243 2 0 0
+CompilationAction 1474459025448 TestBowling.java
+CompilationAction 1474459025449 TestBowling.java
+CompilationAction 1474459025450 TestBowling.java
+CompilationAction 1474459032175 TestBowling.java
+CompilationAction 1474459032176 TestBowling.java
+CompilationAction 1474459032178 TestBowling.java
+EditAction 1474459038864 TestBowling.java 278 2 2 1
