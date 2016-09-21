@@ -339,3 +339,9 @@ UnitTestCaseAction 1474463563089 TestBowling.java FAIL
 UnitTestSessionAction 1474463563090 TestBowling.java FAIL
 EditAction 1474463568363 TestBowling.java 3232 11 62 10
 EditAction 1474463689277 TestBowling.java 3232 11 62 10
+UnitTestCaseAction 1474463691610 TestBowling.java FAIL
+UnitTestSessionAction 1474463691611 TestBowling.java FAIL
+RefactoringAction 1474463699110 TestBowling.java RENAME verifyBowlingGame_Frames_4_Score_34()=>void verifyBowlingGame_Frames_4_Score_39() METHOD
+RefactoringAction 1474463721126 TestBowling.java RENAME verifyBowlingGame_Frames_9_Score_45()=>void verifyBowlingGame_Frames_5_Score_45() METHOD
+RefactoringAction 1474463739648 TestBowling.java RENAME verifyBowlingGame_Frames_5_Score_45()=>void verifyBowlingGame_Frames_5_Score_49() METHOD
+EditAction 1474463744432 TestBowling.java 3091 11 58 10
