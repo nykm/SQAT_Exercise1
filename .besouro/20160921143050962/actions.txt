@@ -41,3 +41,4 @@ RefactoringAction 1474459070383 TestBowling.java RENAME verifyFrameIsStrike_()=>
 RefactoringAction 1474459072400 TestBowling.java ADD void verifyFrameIsStrike_True()/2 METHOD
 RefactoringAction 1474459074914 TestBowling.java RENAME verifyFrameIsStrike_True()/2=>void verifyFrameIsStrike_False() METHOD
 EditAction 1474459087888 TestBowling.java 591 4 8 4
+EditAction 1474459102699 TestBowling.java 591 4 8 4

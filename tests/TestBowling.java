@@ -23,7 +23,7 @@ public class TestBowling {
 	
 	@Test
 	public void verifyFrameIsStrike_False() {
-		Frame frame = new Frame(9, 0);
+		Frame frame = new Frame(9, 1);
 		assertFalse(frame.isStrike());
 	}
 }
