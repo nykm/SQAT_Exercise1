@@ -43,3 +43,13 @@ RefactoringAction 1474459074914 TestBowling.java RENAME verifyFrameIsStrike_True
 EditAction 1474459087888 TestBowling.java 591 4 8 4
 EditAction 1474459102699 TestBowling.java 591 4 8 4
 EditAction 1474459110241 TestBowling.java 594 4 8 4
+UnitTestCaseAction 1474459112111 TestBowling.java OK
+UnitTestSessionAction 1474459112112 TestBowling.java OK
+RefactoringAction 1474459135526 TestBowling.java ADD void verifyFrameIsSpare_True()/2 METHOD
+RefactoringAction 1474459138540 TestBowling.java RENAME verifyFrameIsSpare_True()/2=>void veri() METHOD
+RefactoringAction 1474459140056 TestBowling.java RENAME veri()=>void verifyBow() METHOD
+RefactoringAction 1474459142077 TestBowling.java RENAME verifyBow()=>void verifyBowlingGame() METHOD
+RefactoringAction 1474459144594 TestBowling.java RENAME verifyBowlingGame()=>void verifyBowlingGame_() METHOD
+RefactoringAction 1474459147109 TestBowling.java RENAME verifyBowlingGame_()=>void verifyBowlingGame_Ctor() METHOD
+RefactoringAction 1474459150623 TestBowling.java RENAME verifyBowlingGame_Ctor()=>void verifyBowlingGame_TooMany() METHOD
+EditAction 1474459151751 TestBowling.java 725 5 10 5
