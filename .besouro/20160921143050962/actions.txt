@@ -389,3 +389,8 @@ UnitTestCaseAction 1474464333319 TestBowling.java FAIL
 UnitTestSessionAction 1474464333319 TestBowling.java FAIL
 RefactoringAction 1474464361618 TestBowling.java RENAME verifyBowlingGame_Frames_5_Score_59()=>void verifyBowlingGame_Frames_5_Score_60() METHOD
 EditAction 1474464417438 TestBowling.java 4351 14 85 13
+UnitTestCaseAction 1474464419635 TestBowling.java FAIL
+UnitTestSessionAction 1474464419636 TestBowling.java FAIL
+RefactoringAction 1474464437181 TestBowling.java RENAME verifyBowlingGame_Frames_5_Score_60()=>void verifyBowlingGame_Frames_5_Score_59() METHOD
+RefactoringAction 1474464576095 Frame.java RENAME isSpare()=>boolean score FIELD
+EditAction 1474464586431 BowlingGame.java 1533 4 7 0

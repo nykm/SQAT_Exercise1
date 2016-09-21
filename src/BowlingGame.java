@@ -37,7 +37,11 @@ public class BowlingGame {
 			
 			if (i == 9 && (frame.isSpare() || frame.isStrike())) {
 				if (bonus != null) {
-					score += bonus.score();
+					if (frame.isSpare()) {
+						score += bonus.getFirstThrow();
+					} else if (frame.isStrike()) {
+						score += bonus.getFirstThrow() + bonus.getSecondThrow();
+					}
 				}
 				
 			} else if (frame.isSpare() && (i + 1 < frames.size())) {
