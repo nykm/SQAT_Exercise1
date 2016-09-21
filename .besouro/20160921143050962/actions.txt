@@ -369,3 +369,6 @@ UnitTestSessionAction 1474463861387 TestBowling.verifyBowlingGame_Frames_8_Score
 UnitTestCaseAction 1474463865877 TestBowling.java FAIL
 UnitTestSessionAction 1474463865879 TestBowling.java FAIL
 EditAction 1474463879383 TestBowling.java 4351 14 85 13
+UnitTestCaseAction 1474463881388 TestBowling.java FAIL
+UnitTestSessionAction 1474463881390 TestBowling.java FAIL
+EditAction 1474463973934 TestBowling.java 4351 14 85 13
