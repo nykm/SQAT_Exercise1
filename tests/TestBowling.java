@@ -83,7 +83,7 @@ public class TestBowling {
 	}
 	
 	@Test
-	public void verifyBowlingGame_Frames_10_Score_45() throws BowlingException {
+	public void verifyBowlingGame_Frames_10_Score_133() throws BowlingException {
 		BowlingGame game = new BowlingGame();
 
 		game.addFrame(new Frame(1, 4));
