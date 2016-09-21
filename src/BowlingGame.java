@@ -52,10 +52,10 @@ public class BowlingGame {
 				score += nextFrame.getFirstThrow() + nextFrame.getSecondThrow();
 			}
 
-			if (frame.isSpare() && i == frames.size() - 1)
+			if (frame.isSpare() && (i + 1 >= frames.size()))
 				break;
 			
-			if (frame.isStrike() && i == frames.size() - 1)
+			if (frame.isStrike() && (i + 1 >= frames.size()))
 				break;
 			
 		}
