@@ -118,6 +118,7 @@ public class TestBowling {
 		game.addFrame(new Frame(10, 0));
 		game.addFrame(new Frame(0, 1));
 		game.addFrame(new Frame(7, 3));
+		game.addFrame(new Frame(6, 4));
 		
 		assertEquals(game.score(), 87);
 	}
