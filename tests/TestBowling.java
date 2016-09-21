@@ -5,8 +5,12 @@ import org.junit.Test;
 public class TestBowling {
 
 	@Test
-	public void test() {
-		fail("Not yet implemented");
+	public void verifyFrameIsSpare_True() {
+		Frame frame = new Frame(10,
 	}
-
+	
+	@Test
+	public void verifyFrameIsStrike_True() {
+		
+	}
 }

@@ -16,3 +16,13 @@ CompilationAction 1474458763678 BowlingGame.java
 CompilationAction 1474458768562 BowlingGame.java
 EditAction 1474458790293 BowlingGame.java 918 4 8 0
 EditAction 1474458919984 Frame.java 665 6 7 0
+RefactoringAction 1474458956516 TestBowling.java RENAME test()=>void verify() METHOD
+RefactoringAction 1474458971530 TestBowling.java RENAME verify()=>void verifyFrame() METHOD
+RefactoringAction 1474458973041 TestBowling.java RENAME verifyFrame()=>void verifyFrame_() METHOD
+RefactoringAction 1474458978552 TestBowling.java RENAME verifyFrame_()=>void verifyFrameIsStrike() METHOD
+RefactoringAction 1474458981566 TestBowling.java ADD void verifyFrameIsStrike()/2 METHOD
+RefactoringAction 1474458984578 TestBowling.java RENAME verifyFrameIsStrike()/2=>void verifyFrameIs() METHOD
+RefactoringAction 1474458992586 TestBowling.java RENAME verifyFrameIs()=>void verifyFrameIsFrame() METHOD
+RefactoringAction 1474458995595 TestBowling.java RENAME verifyFrameIsFrame()=>void verifyFrameIsSpare() METHOD
+RefactoringAction 1474459020720 TestBowling.java RENAME verifyFrameIsSpare()=>void verifyFrameIsSpare_True() METHOD
+EditAction 1474459023739 TestBowling.java 243 2 0 0
