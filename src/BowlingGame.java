@@ -53,11 +53,6 @@ public class BowlingGame {
 			}
 		}
 		
-		
-		
-		if (bonus != null)
-			score += bonus.score();
-		
 		return score;
 	}
 }
