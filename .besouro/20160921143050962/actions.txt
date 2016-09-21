@@ -377,3 +377,6 @@ UnitTestSessionAction 1474463976144 TestBowling.java FAIL
 RefactoringAction 1474463981024 TestBowling.java RENAME verifyBowlingGame_Frames_7_Score_70()=>void verifyBowlingGame_Frames_7_Score_71() METHOD
 RefactoringAction 1474464065555 TestBowling.java RENAME verifyBowlingGame_Frames_6_Score_60()=>void verifyBowlingGame_Frames_6_Score_61() METHOD
 EditAction 1474464070129 TestBowling.java 4351 14 85 13
+UnitTestCaseAction 1474464072218 TestBowling.java FAIL
+UnitTestSessionAction 1474464072220 TestBowling.java FAIL
+EditAction 1474464126786 TestBowling.java 4316 14 84 13
