@@ -203,3 +203,4 @@ UnitTestCaseAction 1474460935138 TestBowling.java FAIL
 UnitTestSessionAction 1474460935139 TestBowling.java FAIL
 RefactoringAction 1474460960763 TestBowling.java RENAME verifyBowlingGame_Frames_3_Strike3_Score_29()=>void verifyBowlingGame_Frames_3_Spare3_Score_29() METHOD
 EditAction 1474460962176 TestBowling.java 1912 8 33 7
+EditAction 1474461010645 BowlingGame.java 1380 4 7 0
