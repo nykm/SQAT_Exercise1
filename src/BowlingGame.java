@@ -33,12 +33,12 @@ public class BowlingGame {
 		
 		for (int i = 0; i < frames.size(); i++) {
 			Frame frame = frames.get(i);
+
+			score += frame.score();
 			
 			if (i < 9 && (frame.isSpare() || frame.isStrike())) {
 				break;
 			}
-			
-			score += frame.score();
 			
 			if (i == 9 && (frame.isSpare() || frame.isStrike())) {
 				if (bonus != null) {
