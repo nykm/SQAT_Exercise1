@@ -50,6 +50,8 @@ public class BowlingGame {
 				Frame nextFrame = frames.get(i + 1);
 				score += frame.score();
 				score += nextFrame.getFirstThrow() + nextFrame.getSecondThrow();
+			} else {
+				score += frame.score();
 			}
 
 			if (frame.isSpare() && (i + 1 >= frames.size()))
