@@ -12,6 +12,7 @@ public class TestBowling {
 	
 	@Test
 	public void verifyFrameIsStrike_True() {
-		
+		Frame frame = new Frame(10, 0);
+		assertTrue(frame.isStrike());
 	}
 }
