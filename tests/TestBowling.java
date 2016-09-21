@@ -24,13 +24,13 @@ public class TestBowling {
 	}
 
 	@Test
-	public void verifyBowlingGame_FirstFrame_Score_5() {
+	public void verifyBowlingGame_FirstFrame_Score_5() throws BowlingException {
 		BowlingGame game = new BowlingGame();
 		
 		Frame frame = new Frame(1, 4);
 		game.addFrame(frame);
-		assertEquals(game.score(), 5);
-		assertTrue(frame.isSpare());
+		
+		assertEquals(game.score(), 4);
 	}
 	
 	@Test

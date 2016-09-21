@@ -168,3 +168,9 @@ RefactoringAction 1474460601561 TestBowling.java RENAME verifyBowlingGame_FirstF
 RefactoringAction 1474460603573 TestBowling.java RENAME verifyBowlingGame_FirstFrame_Score()=>void verifyBowlingGame_FirstFrame_Score_() METHOD
 RefactoringAction 1474460605088 TestBowling.java RENAME verifyBowlingGame_FirstFrame_Score_()=>void verifyBowlingGame_FirstFrame_Score_5() METHOD
 EditAction 1474460636439 TestBowling.java 1376 6 25 6
+CompilationAction 1474460638275 TestBowling.java
+CompilationAction 1474460665803 TestBowling.java
+CompilationAction 1474460665821 BowlingGame.java
+UnitTestCaseAction 1474460666225 TestBowling.java OK
+UnitTestSessionAction 1474460666226 TestBowling.java OK
+EditAction 1474460673716 TestBowling.java 1372 6 24 5
