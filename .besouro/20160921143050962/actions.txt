@@ -53,3 +53,4 @@ RefactoringAction 1474459144594 TestBowling.java RENAME verifyBowlingGame()=>voi
 RefactoringAction 1474459147109 TestBowling.java RENAME verifyBowlingGame_()=>void verifyBowlingGame_Ctor() METHOD
 RefactoringAction 1474459150623 TestBowling.java RENAME verifyBowlingGame_Ctor()=>void verifyBowlingGame_TooMany() METHOD
 EditAction 1474459151751 TestBowling.java 725 5 10 5
+EditAction 1474459223366 TestBowling.java 769 5 10 4

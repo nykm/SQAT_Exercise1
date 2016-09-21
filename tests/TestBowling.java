@@ -4,10 +4,11 @@ import org.junit.Test;
 
 public class TestBowling {
 
-	@Test
+	@Test(expected=BowlingException.class)
 	public void verifyBowlingGame_TooManyFrames() {
-		Frame frame = new Frame(5, 5);
-		assertTrue(frame.isSpare());
+		BowlingGame game = new BowlingGame();
+
+		game.addFrame(new Frame(0,0));
 	}
 	
 	@Test
