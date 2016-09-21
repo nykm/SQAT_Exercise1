@@ -35,7 +35,7 @@ public class BowlingGame {
 			Frame frame = frames.get(i);
 			score += frame.getFirstThrow() + frame.getSecondThrow();
 			
-			if (i == 9 && frame.isSpare()) {
+			if (i == 9 && (frame.isSpare() && frame.isStrike()) {
 				if (bonus != null) {
 					score += bonus.score();
 				}
