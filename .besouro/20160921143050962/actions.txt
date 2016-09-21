@@ -274,3 +274,4 @@ UnitTestCaseAction 1474462048915 TestBowling.java OK
 UnitTestSessionAction 1474462048916 TestBowling.java OK
 RefactoringAction 1474462096190 TestBowling.java RENAME verifyBowlingGame_Frames_3_Spare3_Score_29()=>void verifyBowlingGame_Frames_3_Spare3_Score_34() METHOD
 EditAction 1474462101307 TestBowling.java 1911 8 33 7
+EditAction 1474462396785 BowlingGame.java 1391 4 4 0
