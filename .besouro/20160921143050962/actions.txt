@@ -178,3 +178,13 @@ UnitTestCaseAction 1474460676179 TestBowling.java FAIL
 UnitTestSessionAction 1474460676180 TestBowling.java FAIL
 EditAction 1474460678029 TestBowling.java 1372 6 24 5
 EditAction 1474460682235 TestBowling.java 1605 7 28 6
+CompilationAction 1474460684002 TestBowling.java
+RefactoringAction 1474460696340 TestBowling.java RENAME verifyBowlingGame_FirstFrame_Score_5()/2=>void verifyBowlingGame_Frame_Score_5() METHOD
+RefactoringAction 1474460698356 TestBowling.java RENAME verifyBowlingGame_Frame_Score_5()=>void verifyBowlingGame_Frames_1_Score_5() METHOD
+RefactoringAction 1474460702869 TestBowling.java RENAME verifyBowlingGame_FirstFrame_Score_5()=>void verifyBowlingGame_Frames_2_Score_5() METHOD
+RefactoringAction 1474460705383 TestBowling.java RENAME verifyBowlingGame_Frames_2_Score_5()=>void verifyBowlingGame_Frames_2_Score_() METHOD
+RefactoringAction 1474460708397 TestBowling.java RENAME verifyBowlingGame_Frames_2_Score_()=>void verifyBowlingGame_Frames_2_Score_14() METHOD
+CompilationAction 1474460763078 TestBowling.java
+UnitTestCaseAction 1474460763431 TestBowling.java FAIL
+UnitTestSessionAction 1474460763432 TestBowling.java FAIL
+EditAction 1474460844814 BowlingGame.java 1380 4 7 0

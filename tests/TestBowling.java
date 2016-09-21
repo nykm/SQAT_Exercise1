@@ -24,22 +24,22 @@ public class TestBowling {
 	}
 
 	@Test
-	public void verifyBowlingGame_FirstFrame_Score_5() throws BowlingException {
+	public void verifyBowlingGame_Frames_1_Score_5() throws BowlingException {
 		BowlingGame game = new BowlingGame();
 		
-		Frame frame = new Frame(1, 4);
-		game.addFrame(frame);
+		game.addFrame(new Frame(1, 4));
 		
 		assertEquals(game.score(), 5);
 	}
+	
 	@Test
-	public void verifyBowlingGame_FirstFrame_Score_5() throws BowlingException {
+	public void verifyBowlingGame_Frames_2_Score_14() throws BowlingException {
 		BowlingGame game = new BowlingGame();
+
+		game.addFrame(new Frame(1, 4));
+		game.addFrame(new Frame(4, 5));
 		
-		Frame frame = new Frame(1, 4);
-		game.addFrame(frame);
-		
-		assertEquals(game.score(), 5);
+		assertEquals(game.score(), 14);
 	}
 	
 	@Test
