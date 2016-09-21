@@ -9,6 +9,7 @@ public class TestBowling {
 		Frame frame = new Frame(5, 5);
 		assertTrue(frame.isSpare());
 	}
+	
 	@Test
 	public void verifyFrameIsSpare_False() {
 		Frame frame = new Frame(5, 4);
